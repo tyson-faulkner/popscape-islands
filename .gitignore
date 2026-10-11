@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+config.local.js
+.wrangler/
+supabase/.temp/
